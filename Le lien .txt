@@ -62,3 +62,7 @@ le lien pour mien comprandre wordpress
 https://wordpress.com/fr/
 le lien pour mien comprandre devllopement web & mobile
 https://appery.io/
+le lien pour mien comprandre SQL
+https://sql.sh/
+le lien pour mien comprandre UML
+https://www.lucidchart.com/pages/fr/exemple/uml-online
